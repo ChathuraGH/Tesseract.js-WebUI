@@ -1,7 +1,10 @@
 # Tesseract.js-WebUI
-WebUI for Tesseract.js.
+WebUI for [Tesseract.js](https://tesseract.projectnaptha.com/).
 
-Tesseract.js UI that was developed. No server side processing. All inside the browser. #OCR
+
+Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+
+Tesseract.js WebUI. No server side processing. All inside the browser. #OCR
 
 
 https://chathuragh.github.io/projects/Tesseract.js/Look%20here/index.html
